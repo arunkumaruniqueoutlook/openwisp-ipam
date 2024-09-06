@@ -1,1 +1,2 @@
 openwisp-utils[qa] @ https://github.com/openwisp/openwisp-utils/tarball/master
+django>=4.2.16 # not directly required, pinned by Snyk to avoid a vulnerability
